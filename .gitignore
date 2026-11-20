@@ -1,0 +1,9 @@
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/.env
+**/.env.local
+**/dist/
+**/coverage/
+backend/uploads/resumes/*
+!backend/uploads/resumes/.gitkeep
